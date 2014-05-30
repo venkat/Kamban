@@ -1,0 +1,26 @@
+1.6 "Modifications" mean any addition to, deletion from, and/or change to, the
+substance and/or structure of the Original Code, any previous Modifications,
+the combination of Original Code and any previous Modifications, and/or any
+respective portions thereof.  When code is released as a series of files, a
+Modification is:  (a) any addition to or deletion from the contents of a file
+containing Covered Code; and/or (b) any new file or other representation of
+computer program statements that contains any part of Covered Code.
+
+1.7 "Original Code" means (a) the Source Code of a program or other work as
+originally made available by Sybase under this License, including the Source
+Code of any updates or upgrades to such programs or works made available by
+Sybase under this License, and that has been expressly identified by Sybase as
+such in the header file(s) of such work; and (b) the object code compiled from
+such Source Code and originally made available by Sybase under this License.
+
+1.8 "Personal Use" means use of Covered Code by an individual solely for his
+or her personal, private and non-commercial purposes.  An individual's use of
+Covered Code in his or her capacity as an officer, employee, member,
+independent contractor or agent of a corporation, business or organization
+(commercial or non-commercial) does not qualify as Personal Use.
+
+1.9 "Source Code" means the human readable form of a program or other work
+that is suitable for making modifications to it, including all modules it
+contains, plus any associated interface definition files, scripts used to
+control compilation and installation of an executable (object code).
+

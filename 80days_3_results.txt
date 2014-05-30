@@ -1,0 +1,12 @@
+word_count 256
+eng_word_count 221
+word_reoccurance_count 101
+categories_count 9
+categories {'Integers': '3rd', 'England': 'englishmen', 'Geometry': 'inscribed', 'Asia': 'mongolia', 'City-states': 'singapore', 'Apulia': 'brindisi', 'Tracking categories': 'suez', 'Kolkata': 'calcutta', 'Cities': 'london'}
+categories_reoccurance_count 13
+non_wiki_word_count 4
+disambig_word_count 7
+non_wiki_words {'158+': None, 'cenis': None, 'arrived': None, 'stipulated': None}
+disambig_words {'kong': None, 'fogg': None, 'passepartout': None, 'francisco': None, '2nd': None}
+places_count 5
+places {'yokohama': None, 'london': None, 'turin': None, 'mongolia': None, 'singapore': None}
