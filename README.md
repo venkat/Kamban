@@ -10,12 +10,12 @@ counts needed to find the creativity index. it takes time as
 it keeps downloading pages from wikipedia. redirect the output
 of this code to a file.
 
-`python adjudge.py -i license_1.txt > result.txt`
+    `python adjudge.py -i license_1.txt > result.txt`
 
 2. quantize.py reads the result.txt from standard input and does the calculation and
 prints the creativity index - last line of the output.
 
-`python quantize.py < result.txt`
+    `python quantize.py < result.txt`
 
 3. to tweak the calculation, tweak the formula at the end of quantize.py
 
