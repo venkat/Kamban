@@ -25,3 +25,5 @@ result files are names with the suffix results.txt
 5. Thank you Vivake Gupta (v@nano.com) for the stemmer.py!
 
 6. Tweet me @annacoder for feedback.
+
+7. More details at http://venkat.io/posts/kamban-quantizing-creativity-of-written-content/
